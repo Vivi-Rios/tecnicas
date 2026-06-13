@@ -1,15 +1,15 @@
 window.TZ_DB = {
   "003": {
-    "name": "Kasumi Enbu no Jutsu",
-    "rank": "Genin",
-    "type": "Ninjutsu",
-    "branch": "Elemental",
-    "element": "Katon",
-    "seals": "Sí",
-    "cost": "30 chakra",
-    "damage": "60 PV (explosión)",
-    "range": "10 m Ø / 2 turnos",
-    "desc": "De la boca del usuario se despide una nube de gas altamente inflamable de coloración grisácea. Abarca 10 metros de diámetro, centrada hasta 5 m del ejecutor. Puede permanecer 2 turnos y explota ante la más mínima chispa."
+    name: "Kasumi Enbu no Jutsu",
+    rank: "Genin",
+    type: "Ninjutsu",
+    branch: "Elemental",
+    element: "Katon",
+    seals: "Sí",
+    cost: "30 chakra",
+    damage: "60 PV (explosión)",
+    range: "10 m Ø / 2 turnos",
+    desc: "De la boca del usuario se despide una nube de gas altamente inflamable de coloración grisácea. Abarca 10 metros de diámetro, centrada hasta 5 m del ejecutor. Puede permanecer 2 turnos y explota ante la más mínima chispa."
   },
   "365": {
     "name": "Shikotsumyaku",
