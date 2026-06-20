@@ -1366,5 +1366,5 @@ window.TZ_DB = {
     "damage": "60 de vida",
     "range": "Lanzado desde la altura máxima del ave (Diámetro de cobertura de 1 metro)",
     "desc": "La lechuza libera una ráfaga de plumas afiladas recubiertas de chakra, tiene un diámetro de cobertura de 1 metro y pueden ser lanzadas desde la altura máxima que esta pueda alcanzar."
-  }
+  },
 };
