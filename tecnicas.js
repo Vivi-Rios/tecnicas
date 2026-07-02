@@ -1144,9 +1144,6 @@ window.TZ_DB = {
     "range": "—",
     "desc": "El usuario se concentra para recubrir su arma con un manto grisáceo de chakra, que brinda la impresión de hacerla más robusta. Cuando el adversario ataque utilizando algún ninjutsu a distancia, golpeará contra ello, de manera lateral, usando su arma, como si de un bate de baseball se tratase (en caso de ser un arma de filo, utilizará la parte plana de la hoja). Como consecuencia, el chakra se transmitirá a la técnica enemiga para neutralizar sus efectos de manera momentánea y el impulso del golpe hará que la técnica se vuelva de regreso en contra de su ejecutor original, con la misma velocidad a la que fue utilizada inicialmente. Para fines prácticos, y de cara al sistema de evasión, el tiempo que demora en concentrarse para rodear el arma con su manto gris, equivale al tiempo de una secuencia de sellos. Esta técnica funciona hasta con ofensivas que tengan un daño final de 150 puntos o menos (incluyendo bonus), si el ataque adversario sobrepasa esa cifra, el bukijutser se comerá el daño de manera íntegra."
   },
-**HOLA**
-**MAESTRÍAS CÓDIGOS VAN AQUÍ**
-
   "192": {
     "name": "Kikaichu no Jutsu",
     "rank": "Genin",
@@ -1327,7 +1324,7 @@ window.TZ_DB = {
     "range": "—",
     "desc": "Requiere estar bajo los efectos de la píldora roja o, en su defecto, del Chou Modo. El Akimichi concentra una colosal cantidad de chakra en alguno de sus puños (para fines prácticos, demora lo mismo que un jutsu de un solo sello) y lo libera violentamente para atacar al enemigo. Al momento de impactar contra algo, el chakra sale despedido de manera caótica y devasta una zona radial de 15 metros, de modo que, aún si el adversario logra esquivar el impacto directo, los estragos consecuente le harán la mitad del daño."
   },
-  "204": {
+  "207": {
     "name": "Chou Modo",
     "rank": "Jounin Élite",
     "type": "Taijutsu",
@@ -1867,7 +1864,7 @@ window.TZ_DB = {
     "range": "Desarme",
     "desc": "Consiste en una rápida patada vertical, a +10 de velocidad, que se efectúa en contra de alguna de las manos del adversario para que este suelte el arma que se encuentre sosteniendo. El ejecutor decidirá sobre que punto final quedará el arma arrojada, pero no deberá estar a más de 10 metros de distancia."
   },
-  "352": {
+  "252": {
     "name": "Konoha Senpuu",
     "rank": "Chunin",
     "type": "Taijutsu",
@@ -4205,8 +4202,8 @@ window.TZ_DB = {
     "seals": "Sí",
     "cost": "75 de chakra",
     "damage": "100 de vida",
-    “range”: "—",
-    “desc”: "El usuario dispara un rayo hacia el cielo (turno 1). Durante los siguiente tres turnos, caerán rayos hacia la posición del adversario. Irán a una velocidad de -10 puntos con respecto al control del ejecutor, pero lo obligarán a estar siempre al pendiente y en constante movimiento. Los rayos afectan un radio de 3 metros, tomando en cuenta el punto de caen."
+    "range": "—",
+    "desc": "El usuario dispara un rayo hacia el cielo (turno 1). Durante los siguiente tres turnos, caerán rayos hacia la posición del adversario. Irán a una velocidad de -10 puntos con respecto al control del ejecutor, pero lo obligarán a estar siempre al pendiente y en constante movimiento. Los rayos afectan un radio de 3 metros, tomando en cuenta el punto de caen."
   },
  
 };
