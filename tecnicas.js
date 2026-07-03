@@ -1241,16 +1241,16 @@ window.TZ_DB = {
     "desc": "Requiere de 6 enjambres. Una masiva cantidad de insectos se congrega formando una especie de ola gigante, de 10 metros de longitud y 5 metros de altura. La ola recorre una distancia de 25 metros y es capaz de distinguir aliados de enemigos. Además, el Aburame puede viajar en su interior y pasar totalmente camuflado, pudiendo incluso realizar otras técnicas de por medio."
   },
   "200": {
-    "name": "Baika no Jutsu",
-    "rank": "Genin",
-    "type": "Taijutsu",
-    "branch": "Nintaijutsu",
-    "element": "No requiere",
-    "seals": "Uno",
-    "cost": "35 de chakra",
-    "damage": "45 de vida",
-    "range": "—",
-    "desc": "Mediante el gasto de las calorías que el Akimichi ha acumulado en su cuerpo, puede aumentar el tamaño del mismo. Este jutsu corresponde al nivel más básico del clan, el usuario expande su caja torácica desmedidamente y su cuerpo adquiere una apariencia esférica de 2 metros de diámetro. Adquiriendo su nueva forma, comienza a girar rápidamente para atacar a su adversario, como si de una bala de cañón se tratase. Recibe una bonificación de +10 puntos para el cálculo final de la fórmula para Nintaijutsu.\n\nGenin: Solo puede realizar ataques de trayectorias lineales.\nChunin: Puede controlar con total libertado los movimientos de sus ataques.\n\nAdemás, en este estado, el ejecutor se vuelve inmune a los ataques de armas que no tengan chakra asociado. La duración de esta técnica es de 3 turnos, aumentando 2 turnos adicionales por cada rango superior."
+    name: "Baika no Jutsu",
+    rank: "Genin",
+    type: "Taijutsu",
+    branch: "Nintaijutsu",
+    element: "No requiere",
+    seals: "Uno",
+    cost: "35 de chakra",
+    damage: "45 de vida",
+    range: "—",
+    desc: "Mediante el gasto de las calorías que el Akimichi ha acumulado en su cuerpo, puede aumentar el tamaño del mismo. Este jutsu corresponde al nivel más básico del clan, el usuario expande su caja torácica desmedidamente y su cuerpo adquiere una apariencia esférica de 2 metros de diámetro. Adquiriendo su nueva forma, comienza a girar rápidamente para atacar a su adversario, como si de una bala de cañón se tratase. Recibe una bonificación de +10 puntos para el cálculo final de la fórmula para Nintaijutsu.\n\nGenin: Solo puede realizar ataques de trayectorias lineales.\nChunin: Puede controlar con total libertado los movimientos de sus ataques.\n\nAdemás, en este estado, el ejecutor se vuelve inmune a los ataques de armas que no tengan chakra asociado. La duración de esta técnica es de 3 turnos, aumentando 2 turnos adicionales por cada rango superior."
   },
   "201": {
     "name": "Bubun Baika no Jutsu",
