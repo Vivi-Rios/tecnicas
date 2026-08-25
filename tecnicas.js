@@ -5358,5 +5358,41 @@ window.TZ_DB = {
     "range": "—",
     "desc": "El usuario dispara un rayo hacia el cielo (turno 1). Durante los siguiente tres turnos, caerán rayos hacia la posición del adversario. Irán a una velocidad de -10 puntos con respecto al control del ejecutor, pero lo obligarán a estar siempre al pendiente y en constante movimiento. Los rayos afectan un radio de 3 metros, tomando en cuenta el punto de caen."
   },
- 
+   "900": {
+    name: "Rifle",
+    rank: "Genin",
+    type: "Taijutsu",
+    branch: "Propio",
+    element: "No requiere",
+    seals: "No",
+    cost: "35 de chakra ",
+    damage: "50 PV",
+    range: "Cuerpo a cuerpo",
+    desc: "Consiste en que el usuario lleve sus brazos hacia atrás, para ganar impulso, y luego hacia adelante para lanzar un golpe directo con ambas palmas de sus manos hacia su oponente. Se ejecuta a una velocidad +5 y su potencia ocasiona que el oponente sea despedido hacia atrás 5 metros.\nEfecto extra: Empuje"
+  },
+"901": {
+    name: "Vortex",
+    rank: "Genin/Chunin/Jounin",
+    type: "Propio",
+    branch: "Kugutsu",
+    element: "No requiere",
+    seals: "No",
+    cost: "30 / 45 / 70 de chakra ",
+    damage: "60 / 90 /140 PV",
+    range: "Cuerpo a cuerpo",
+    desc: "Consiste en que el usuario, tras apoyar unas de sus manos en el suelo, gira hacia el lado contrario para asestar un golpe de gran potencia, haciendo uso de su fuerza física, sobre la espalda baja del oponente.\nA nivel Chunin, ambas manos actuarán como soporte para aumentar la fuerza cinética, de modo que podrá efectuar un par de patadas de mayor potencia.\nFinalmente, en rango Jounin el cuerpo del usuario ha alcanzado su plenitud física y puede ejercer una potencia descomunal, de modo que la seguidilla de patadas causan grandes estragos en el adversario."
+  },
+"902": {
+    name: "Stamp",
+    rank: "Genin",
+    type: "Taijutsu",
+    branch: "Propio",
+    element: "No requiere",
+    seals: "No",
+    cost: "40 de chakra",
+    damage: "50 PV",
+    range: "Cuerpo a cuerpo",
+    desc: "Consiste en un agarre efectuado sobre el adversario y su potencia ocasiona que el oponente sea estampado contra el suelo, destruyendo parte del mismo y aturdiendo momentáneamente al contrincante. Tras realizar la técnica, existirá un breve tiempo muerto en donde el ejecutor da un salto para posicionarse a 5 metros de distancia. Durante ese momento, el afectado puede reincorporarse y ambos pueden reanudar acciones. \nEfecto extra: Aturdimiento."
+  }, 
+
 };
