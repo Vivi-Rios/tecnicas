@@ -5395,4 +5395,29 @@ window.TZ_DB = {
     desc: "Consiste en un agarre efectuado sobre el adversario y su potencia ocasiona que el oponente sea estampado contra el suelo, destruyendo parte del mismo y aturdiendo momentáneamente al contrincante. Tras realizar la técnica, existirá un breve tiempo muerto en donde el ejecutor da un salto para posicionarse a 5 metros de distancia. Durante ese momento, el afectado puede reincorporarse y ambos pueden reanudar acciones. \nEfecto extra: Aturdimiento."
   }, 
 
+"903": {
+    name: "Ninpō: Honryū",
+    rank: "Genin/Chunin/Jounin",
+    type: "Ninjutsu",
+    branch: "Propio",
+    element: "No requiere",
+    seals: "No.",
+    cost: "Variable",
+    damage: "1 a 1 con el coste",
+    range: "—",
+    desc: "Técnica desarrollada por Kiriya para aprovechar sus reservas de chakra de manera más agresiva. Mediante Honryū fuerza momentáneamente un caudal de chakra superior al habitual a través de su cuerpo, concentrándolo hacia el Ninjutsu que se encuentra ejecutando. La saturación ocurre únicamente durante la ejecución de la técnica escogida. El aumento repentino del flujo se manifiesta como un breve pulso de chakra antes de ser incorporado al Ninjutsu, tras lo cual la circulación de Kiriya regresa a la normalidad. Honryū no genera ni recupera chakra, sino que permite consumir una mayor cantidad de las reservas existentes en una única ejecución./nDurante la canalización, un breve estallido de chakra rodea a Kiriya y se concentra hacia el punto desde el cual será ejecutado el Ninjutsu afectado. El efecto desaparece inmediatamente después. /nAl ejecutar un Ninjutsu ofensivo que posea daño, Kiriya puede utilizar Honryū para invertir voluntariamente chakra adicional en él. Por cada punto de chakra adicional consumido, el daño propio de la técnica aumenta en un punto. No hay límite mínimo pero el límite máximo se encuentra regido por el rango del usuario. /n/nGenin: 30 puntos. /nChunin: 45 puntos. /nJounin: 65 puntos. /n/n Esta técnica se rige por el sistema de bonificación de la Guía 4 y sigue su cláusula establecida que dicta lo siguiente: El límite para el daño extra que pueda ejercer una técnica vía bonificaciones es del doble, sin importar si tiene más maneras para acumular daño extra. Además, solo aplica para técnicas de ninjutsu ofensivo ejecutadas a distancia. El Ninpō: Honryū no recibirá bonificaciones de ningún tipo, ya que la técnica en sí es una bonificación.",
+},
+
+"904": {
+    name: "Suiton: Suiatsudan",
+    rank: "Genin",
+    type: "Ninjutsu",
+    branch: "Elemental",
+    element: "Suiton",
+    seals: "Sí",
+    cost: "35 de chakra",
+    damage: "60 PV",
+    range: "10 metros",
+    desc: "Tras realizar los sellos necesarios, Kiriya concentra chakra Suiton entre ambas manos, haciendo que una masa de agua se acumule en el espacio comprendido entre ellas. En lugar de permitir que aumente libremente de volumen, ejerce control sobre ella para comprimirla progresivamente hasta formar una esfera pequeña y densa de 20 cm de diámetro aproximadamente, cuya superficie se mantiene en constante movimiento debido a la presión contenida. Una vez completada la compresión, Kiriya adelanta una de sus manos y libera la esfera desde delante de la palma, proyectándola a gran velocidad contra un objetivo. Al impactar, la presión acumulada se libera de manera brusca, concentrando la fuerza de la masa de agua en un golpe contundente. /nEfecto extra: +5 CON para la ofensiva.", }, */
+},
 };
