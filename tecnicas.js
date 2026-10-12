@@ -5420,5 +5420,18 @@ window.TZ_DB = {
     range: "10 metros",
     desc: "Tras realizar los sellos necesarios, Kiriya concentra chakra Suiton entre ambas manos, haciendo que una masa de agua se acumule en el espacio comprendido entre ellas. En lugar de permitir que aumente libremente de volumen, ejerce control sobre ella para comprimirla progresivamente hasta formar una esfera pequeña y densa de 20 cm de diámetro aproximadamente, cuya superficie se mantiene en constante movimiento debido a la presión contenida. Una vez completada la compresión, Kiriya adelanta una de sus manos y libera la esfera desde delante de la palma, proyectándola a gran velocidad contra un objetivo. Al impactar, la presión acumulada se libera de manera brusca, concentrando la fuerza de la masa de agua en un golpe contundente. \nEfecto extra: +5 CON para la ofensiva.",
 },
+   "905": {
+    name: "Takedown",
+    rank: "Genin",
+    type: "Taijutsu",
+    branch: "Propio",
+    element: "No requiere",
+    seals: "No.",
+    cost: "35 chakra",
+    damage: "60 PV",
+    range: "Cuerpo a cuerpo",
+    desc: "Izou reduce su centro de gravedad y se lanza hacia el adversario con una corta arremetida frontal. Al alcanzar la distancia suficiente, rodea la cintura o la zona baja del torso del objetivo con ambos brazos y continúa impulsándose hacia delante, utilizando el propio peso y la fuerza del avance para derribarlo violentamente contra el suelo.\nEl agarre se mantiene únicamente durante la ejecución de la técnica y tiene como finalidad completar el derribo, sin dejar al adversario restringido una vez finalizado el movimiento.\nSi el Taijutsu impacta con al menos el 51% de su potencia, el objetivo es derribado.",
+},
+
    
 };
