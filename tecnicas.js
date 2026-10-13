@@ -5432,6 +5432,30 @@ window.TZ_DB = {
     range: "Cuerpo a cuerpo",
     desc: "Izou reduce su centro de gravedad y se lanza hacia el adversario con una corta arremetida frontal. Al alcanzar la distancia suficiente, rodea la cintura o la zona baja del torso del objetivo con ambos brazos y continúa impulsándose hacia delante, utilizando el propio peso y la fuerza del avance para derribarlo violentamente contra el suelo.\nEl agarre se mantiene únicamente durante la ejecución de la técnica y tiene como finalidad completar el derribo, sin dejar al adversario restringido una vez finalizado el movimiento.\nSi el Taijutsu impacta con al menos el 51% de su potencia, el objetivo es derribado.",
 },
+"906": {
+    name: "Ninpō: Chikyū no Kōmyaku",
+    rank: "Genin/Chunin/Jounin",
+    type: "Ninjutsu",
+    branch: "Propio",
+    element: "Doton",
+    seals: "Sí",
+    cost: "35/50/75 chakra",
+    damage: "60/90/135 PV",
+    range: "10/15/20 metros",
+    desc: "Naoe canaliza su chakra hacia el subsuelo para establecer marcas o "venas de chakra latent" en puntos estratégicos del terreno. La metodología es la siguiente, el usuario ha de encontrarse situado sobre una superficie firme y realizar la secuencia de sellos correspondiente, acto seguido detallará una ubicación dentro de su rango de acción y la vena de chakra quedará establecida, manifestándose como una pequeña grieta. \nLa marca de chakra permanecerá en suspenso hasta que el ejecutor decida activarla y para esto será necesario únicamente un gesto ascendente con la mano. Con su activación, brotará de manera instantánea una estructura pétrea desde la posición designada, con la intención de sorprender al rival desde sus puntos ciegos o interrumpir sus trayectorias. \n- Genin: Puede establecer una vena, el rango de establecimiento de la marca es de 10 metros y para accionarla no debe de estar a más de 15 metros de distancia de la misma. Cuenta con tres turnos (incluido el turno en que se creó la marca) para activar el efecto antes de que la vena desaparezca. El tamaño de la estructura ósea creada no puede superar los 2x2 metros (en caso de ser una pared) o los 2 metros de longitud (en caso de ser ofensiva). \n- Chunin: Puede establecer hasta dos venas, el rango de establecimiento de las marcas es de 15 metros y para accionarlas no debe de estar a más de 20 metros de distancia de las mismas. Cuenta con cuatro turnos (incluido el turno en que se creó la marca) para activar el efecto antes de que la vena desaparezca. El tamaño de la estructura ósea creada no puede superar los 2x2 metros (en caso de ser una pared) o los 3 metros de longitud (en caso de ser ofensiva), puede lanzar ofensivas en pinza o desde dos ángulos distintos. \n- Jounin: Puede establecer hasta dos venas, el rango de establecimiento de las marcas es de 20 metros y para accionarlas no debe de estar a más de 25 metros de distancia de las mismas. Cuenta con cinco turnos (incluido el turno en que se creó la marca) para activar el efecto antes de que la vena desaparezca. El tamaño de la estructura osea creada no puede superar los 3x3 metros (en caso de ser una pared) o los 4 metros de longitud (en caso de ser ofensiva). \nNotas extra: El gasto de chakra se realiza al momento de crear la marca, activarla no demanda gasto. A partir de rango chunin, cuando se pueden crear venas múltiples, la potencia total se divide entre el número de venas creadas..",
+},
+"907": {
+    name: "Doton: Gōshaku no Kōki",
+    rank: "Genin",
+    type: "Ninjutsu",
+    branch: "Propio",
+    element: "Doton",
+    seals: "Sí.",
+    cost: "35 chakra",
+    damage: "60 PV",
+    range: "10 metros",
+    desc: "Naoe efectúa la secuencia de sellos y golpea el suelo con una mano para proyectar una onda de compresión mineral a través del subsuelo. Al llegar justo debajo del objetivo (hasta un alcance máximo de 10 metros), emergen abruptamente tres pilares de piedra porosa y densa en ángulos diagonales. \nEfecto extra: Empuje de 5 metros en caso de impactar directamente.",
+},
 
    
 };
