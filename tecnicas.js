@@ -5470,7 +5470,7 @@ window.TZ_DB = {
     cost: "40 chakra",
     damage: "40 PV",
     range: "Cuerpo a cuerpo",
-    desc: "Izou se desplaza rápidamente hacia el adversario (+5 velocidad), reduciendo la distancia entre ellos. Al encontrarse frente a él, eleva una de sus piernas y utiliza el impulso de su avance para impactar con fuerza su rodilla directamente contra el abdomen del objetivo. El golpe busca aprovechar la velocidad de Izou y la concentración de su fuerza en un único punto, provocando un fuerte impacto en el torso. \nLa técnica está pensada para ejecutarse de forma rápida y directa, sin necesidad de sujetar al adversario, permitiendo a Izou continuar moviéndose inmediatamente después del impacto. \nEfecto adicional: Aturdimiento
+    desc: "Izou se desplaza rápidamente hacia el adversario (+5 velocidad), reduciendo la distancia entre ellos. Al encontrarse frente a él, eleva una de sus piernas y utiliza el impulso de su avance para impactar con fuerza su rodilla directamente contra el abdomen del objetivo. El golpe busca aprovechar la velocidad de Izou y la concentración de su fuerza en un único punto, provocando un fuerte impacto en el torso. \nLa técnica está pensada para ejecutarse de forma rápida y directa, sin necesidad de sujetar al adversario, permitiendo a Izou continuar moviéndose inmediatamente después del impacto. \nEfecto adicional: Aturdimiento.",
 },
 
    
